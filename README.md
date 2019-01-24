@@ -1,6 +1,6 @@
 # Frontend teszt
 
-Készíts el egy responsive oldalt a csatolt zip file tartalmának felhasználásával. A HTML és CSS fájlokat előre elkészítettük. A frontendhez Angular 7-et használj.
+Készíts el egy responsive oldalt repository tartalmának felhasználásával. A HTML és CSS fájlokat előre elkészítettük. A frontendhez Angular 7-et használj.
 A keresőmező gépelésre szűrjön, csak nagybetű, kisbetű és számot fogadjon el. Ha mást írnak be, figyelmeztesd a usert, hogy milyen karaktereket fogadunk el.
 A képek nevei megegyeznek az ID-kal.
 
