@@ -9,7 +9,7 @@ Készíts el egy **responsive oldalt** a repository tartalmának felhasználás�
 - A nyelvválasztónak újratöltés nélkül kell nyelvet váltani, viszont újratöltés után is a választott nyelvet kell használnia.
 - A "More" gombnak **nincs** funckiója az oldalon.
 - Fejlesztés közben figyelj az **OOP** szemléletre és az **MVC** irányelvekre is.
-- Ha tudsz írj hozzá 3 unit tesztet, **de ez nem kötelező.**
+- Ha írtál már teszteket, írj hozzá 3 unit tesztet, **de ez nem kötelező.**
 - Használj nyugodtan olyan Angular plugint, amivel szívesen dolgozol, nem kell mindent az elejéről megírni.
 
 A megoldást egy zip-ben juttasd el nekünk.
